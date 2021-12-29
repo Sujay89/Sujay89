@@ -5,5 +5,5 @@
 - 💬 Ask me about Python or Machine Learning.
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/sujay-patil-7173bb1ba/
 - 😄 Pronouns: He/Him.
-- 
+
 
