@@ -1,4 +1,4 @@
-[3:14 PM, 12/30/2021] Somesh NMIET: <h1 align="center">Hello , I am Sujay 👋 .</h1>
+<h1 align="center">Hello , I am Sujay 👋 .</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujay89&label=Profile%20views&color=0e75b6&style=flat" alt="sujay89" /> </p>
 
 - 🔭 I’m currently working on *some Machine Learning Projects.*
